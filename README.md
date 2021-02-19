@@ -1,4 +1,4 @@
-# FlatMap CompactMap Map in swift
+# FlatMap v/s CompactMap v/s Map in swift
 
 #Map 
 - Map tranform an array of values into an array of another values
